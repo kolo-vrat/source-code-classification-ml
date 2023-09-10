@@ -1,5 +1,7 @@
 # Source Code Classification Using Machine Learning
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kolo-vrat/source-code-classification-ml/blob/main/SourceCodeClassification.ipynb)
+
 This project uses a dataset derived from a [Kaggle](ttps://www.kaggle.com/datasets/simiotic/github-code-snippets-development-sample) dataset trimmed down to 84907 code snippets from nine programming languages that are collected from GitHub. The programming languages that are used are: C, C++, Python, JavaScript, Java, Go, Rust, HTML, Ruby.
 
 ### Install the required packages
